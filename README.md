@@ -18,9 +18,9 @@ Challenge 14 - Boot Camp
 
   ## Description of Assignment
 
-Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
+Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
 
-Your challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+Your challenge this week is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. You’ll build this site completely from scratch and deploy it to Heroku. Your app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
   ## About 
 
@@ -72,7 +72,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Screenshots
 
-![images/Insomnia.png](images/Insomnia.png)
+![images/TECHWORD.png](images/TECHWORD.png)
 
 
 ## License
@@ -101,7 +101,7 @@ License used for this project - MIT
 
 ## Heroku Deployed Link
 
-
+https://frozen-tundra-42313-1be74e9a646c.herokuapp.com/ 
 
 ## Github Repository Link:
 
